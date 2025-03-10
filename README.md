@@ -29,26 +29,56 @@ Story trong thân xác Woody, và được giao nhiệm vụ quan trọng - tìm
 ![image](https://github.com/user-attachments/assets/f077eaa7-2251-42f2-9ee1-cee5c41ea71a)
 ![image](https://github.com/user-attachments/assets/82f8d3de-99bc-4980-bc7d-bb585d0112eb)
 
-## Cốt truyện
-6:00PM
-Sau một ngày làm việc mệt mỏi, bạn trở về nhà trong tâm trạng chán nản. Đột nhiên, khi đi qua cửa hàng đồ chơi mới mở ở góc phố, bạn có cảm giác kì quái như thể có ai đó đang theo dõi bạn vậy. Nhìn qua, đó là một con búp bê Woody từ series Toy Story! Bộ phim này từng là tác phẩm bạn yêu thích nhất của Disney, tuy nhiên gần đây vì không còn ra phần mới nữa nên ít khi thấy mọi người nhắc về nó, và bọn trẻ con ngày nay cũng ít biết về bộ phim này, vậy nên việc Woody được trưng bày trước tủ kính như thế này làm bạn có cảm giác quái lạ, và như ma xui quỷ khiến, bạn đã mua nó. 
-Về tới nhà, bạn vẫn không hiểu sao mình tốn tiền cho một món đồ chơi trẻ con như vậy, bạn cũng không phải kiểu người thích búp bê.
-Thôi lỡ mua rồi, nhân tiện cày lại Toy Story một chút nhỉ.
-Với quyết tâm đó, bạn ôm Woody và cày lại cả bốn phần Toy Story mà quên cả ăn tối. Tuy nhiên, khi đang xem dở phần 4, bạn đã ngủ ngục mất, bên cạnh đồng hồ đã điểm 
-00:00AM
-Bạn từ từ mở mắt, khung cảnh xung quanh trông vừa lạ lẫm vừa thân quen, nhưng nó không phải căn phòng trọ của bạn, và điểm đặc biệt là tất cả mọi thứ đều QUÁ TO!
-Chuyện gì thế này? Đây là đâu? Tại sao mọi thứ đều to quá vậy?
-Trong đầu bạn hiện lên hàng ngàn câu hỏi, bạn đứng hình bởi mọi thứ quá kì quái. Nhưng khoan đã, căn phòng này, hoạ tiết tường này… 
-Đây chẳng phải là căn phòng của Andy trong Toy Story hay sao?
-…
-Bạn dạo quanh căn phòng để khám phá, khi tới góc phòng, bạn nhận ra có một con ma đang lượn lờ, như thể đang chờ đợi ai đó. Ngay khi nhìn thấy bạn, con ma lập tức tiến lại gần tay bắt mặt mừng, nó giới thiệu tên là GuGu. Sau cuộc trò chuyện với GuGu, bạn nắm được các thông tin như sau: 
-Thứ nhất, người đưa bạn đến thế giới này chính là GuGu; 
-Thứ hai, bạn cần phải thu thập mảnh kí ức có hình dạng trái cây giúp GuGu;
-Và thứ ba, điều quan trọng nhất, sau đó GuGu có thể đưa bạn về nhà.
-Chỉ cần biết vậy, tìm đồ thì cũng có gì khó khăn chứ.
-…
-Sau khi nhiệm vụ hoàn thành, bạn có cơ hội được biết về quá khứ của GuGu. Hoá ra, ngoài những gì được kể qua Toy Story, cũng có những món đồ chơi khác có câu chuyện đau lòng và cảm động đến vậy. Tình cảm của GuGu dành cho Andy phải lớn đến mức nào, mà sau khi thân xác không còn, linh hồn vẫn bay về trú ngụ ở căn phòng này đây. Thật tốt khi bạn có cơ hội được giúp đỡ và tìm hiểu về GuGu - một ngoại truyện của Toy Story mà chỉ mình bạn biết.
-[Quá khứ của GuGu là như thế nào? Hãy hoàn thành game để khám phá nhé!]
-…
-6:00AM
-Bạn choàng tỉnh dậy, nhận thấy căn phòng trọ quen thuộc, khẽ thở phào. Quả là một trải nghiệm vừa kinh hoàng vừa xúc động, đến mức giờ hiện thực cũng không cảm thấy thật nữa. Bạn nuốt xuống cảm giác nghèn nghẹn nơi cuống họng, phải chuẩn bị đi làm thôi…
+## 📖 Cốt truyện
+
+### 🕕 6:00PM  
+Sau một ngày làm việc mệt mỏi, bạn trở về nhà trong tâm trạng chán nản. Đột nhiên, khi đi qua cửa hàng đồ chơi mới mở ở góc phố, bạn có cảm giác kỳ quái như thể có ai đó đang theo dõi. Nhìn qua, đó là một con búp bê **Woody** từ series **Toy Story**!  
+
+Bộ phim này từng là tác phẩm yêu thích nhất của bạn, nhưng gần đây nó dường như bị lãng quên. Bọn trẻ ngày nay ít nhắc đến nó, và sự hiện diện của Woody trong tủ kính khiến bạn có cảm giác quái lạ. Như có một sức hút vô hình, bạn đã mua nó.  
+
+Về tới nhà, bạn không hiểu tại sao mình lại chi tiền cho một món đồ chơi trẻ con như vậy, vì bạn vốn không phải người thích búp bê. Nhưng thôi, lỡ rồi… Nhân tiện, cày lại **Toy Story** một chút nhỉ?  
+
+Với quyết tâm đó, bạn ôm Woody và xem liền mạch cả bốn phần của **Toy Story**, quên cả ăn tối. Nhưng khi đến phần 4, bạn đã ngủ quên lúc nào không hay…  
+
+### 🕛 00:00AM  
+Bạn từ từ mở mắt. Cảnh vật xung quanh trông vừa lạ lẫm vừa thân quen. Nhưng có điều kỳ lạ hơn: **mọi thứ đều quá to lớn!**  
+
+❓ Chuyện gì đang xảy ra?  
+❓ Đây là đâu?  
+❓ Tại sao mọi thứ trông khổng lồ như vậy?  
+
+Bạn đứng hình vì mọi thứ quá kỳ quái. Nhưng khoan đã… căn phòng này, họa tiết tường này…  
+
+**Đây chẳng phải là căn phòng của Andy trong Toy Story hay sao?!**  
+
+### 👻 Gặp gỡ GuGu  
+Dạo quanh căn phòng để khám phá, bạn phát hiện một bóng ma đang lượn lờ, như thể đang chờ đợi ai đó. Khi nhìn thấy bạn, nó lập tức tiến lại gần, vui vẻ chào đón.  
+
+👻 **GuGu** - đó là tên của nó.  
+
+Sau cuộc trò chuyện, bạn biết được ba điều quan trọng:  
+
+1️⃣ GuGu chính là người đưa bạn đến thế giới này.  
+2️⃣ Bạn cần thu thập các **mảnh ký ức hình dạng trái cây** giúp GuGu.  
+3️⃣ Nếu hoàn thành nhiệm vụ, GuGu sẽ có thể đưa bạn **trở về nhà**.  
+
+Chỉ cần tìm đồ thôi mà? Chuyện nhỏ!  
+
+### 🔮 Quá khứ của GuGu  
+Sau khi hoàn thành nhiệm vụ, bạn có cơ hội khám phá quá khứ của GuGu. Hóa ra, ngoài những gì được kể trong **Toy Story**, còn có những món đồ chơi khác mang theo câu chuyện đau lòng và cảm động không ai biết.  
+
+💔 **Tình cảm của GuGu dành cho Andy sâu đậm đến mức dù thân xác đã mất, linh hồn vẫn ở lại căn phòng này…**  
+
+Bạn đã giúp đỡ GuGu và khám phá một câu chuyện ngoại truyện bí ẩn của Toy Story mà chỉ mình bạn biết.  
+
+**[Quá khứ của GuGu là gì? Hãy hoàn thành game để khám phá nhé!]**  
+
+### 🕕 6:00AM  
+Bạn giật mình tỉnh dậy trong căn phòng trọ quen thuộc.  
+
+🌫️ **Tất cả chỉ là giấc mơ?**  
+💭 **Hay thực sự đã xảy ra?**  
+
+Trải nghiệm vừa kỳ bí, vừa xúc động này khiến bạn nghèn nghẹn nơi cổ họng. **Mọi thứ ngoài đời thực bỗng trở nên xa lạ.**  
+
+🔄 Nhưng dù sao, ngày mới đã bắt đầu. **Bạn phải chuẩn bị đi làm thôi…** 
